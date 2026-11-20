@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Dost AI</string>
+    <string name="cd_dost_avatar">Dost AI companion emblem</string>
+    <string name="cd_open_drawer">Open conversations drawer</string>
+    <string name="cd_new_chat">Start new conversation</string>
+    <string name="cd_persona_studio">Open AI Persona Studio</string>
+    <string name="cd_attach_image">Attach photo</string>
+    <string name="cd_remove_image">Remove attached photo</string>
+    <string name="cd_voice_input">Record voice for speech-to-text</string>
+    <string name="cd_stop_recording">Stop recording and convert to text</string>
+    <string name="cd_cancel_recording">Cancel voice recording</string>
+    <string name="cd_transcribing_voice">Converting speech to text</string>
+    <string name="cd_send_message">Send message</string>
+    <string name="cd_stop_streaming">Stop generating</string>
+    <string name="cd_copy_message">Copy message</string>
+    <string name="cd_copy_code">Copy code</string>
+    <string name="cd_regenerate">Regenerate response</string>
+    <string name="cd_tts_play">Listen to message</string>
+    <string name="cd_tts_pause">Pause playback</string>
+    <string name="cd_delete_conversation">Delete conversation</string>
+    <string name="cd_close_studio">Back to chat</string>
+    <string name="cd_theme_toggle">Toggle theme</string>
+    <string name="cd_theme_picker">Select color theme</string>
+    <string name="cd_scroll_to_bottom">Scroll to latest message</string>
+    <string name="cd_generated_image">AI generated image</string>
+    <string name="cd_chat_options">Chat options</string>
+</resources>
